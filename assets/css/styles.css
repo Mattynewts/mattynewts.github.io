@@ -165,7 +165,7 @@ nav a[aria-current="page"] {
 }
 .portrait {
   aspect-ratio: 16/6;
-  object-fit: cover;
+  /*object-fit: cover;*/
   /*border-radius: 48% 48% 18px 18px;*/
   display: flex;
   align-items: center;
