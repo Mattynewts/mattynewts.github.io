@@ -164,13 +164,10 @@ nav a[aria-current="page"] {
   font-weight: 700;
 }
 .portrait {
-  aspect-ratio: 16/6;
-  /*object-fit: cover;*/
-  /*border-radius: 48% 48% 18px 18px;*/
-  display: flex;
-  align-items: center;
-  padding: 20px;
-  /*box-shadow: var(--shadow);*/
+  aspect-ratio: 4/5;
+  object-fit: cover;
+  border-radius: 48% 48% 18px 18px;
+  box-shadow: var(--shadow);
 }
 .section {
   padding: 90px 0;
